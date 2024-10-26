@@ -1,0 +1,12 @@
+name: TREINAMENTOS
+title: TREINAMENTOS
+username: semea
+account: semea
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13136628
+bundleId: 9272581
+url: https://semea.shinyapps.io/TREINAMENTOS/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
